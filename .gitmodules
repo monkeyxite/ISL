@@ -1,0 +1,9 @@
+[submodule "refer/ISL-python"]
+	path = refer/ISL-python
+	url = https://github.com/emredjan/ISL-python.git
+[submodule "refer/ISLR-python"]
+	path = refer/ISLR-python
+	url = https://github.com/JWarmenhoven/ISLR-python.git
+[submodule "refer/wdteo_ISL-python"]
+	path = refer/wdteo_ISL-python
+	url = https://github.com/wdteo/ISL-python.git

@@ -7,3 +7,9 @@
 [submodule "refer/wdteo_ISL-python"]
 	path = refer/wdteo_ISL-python
 	url = https://github.com/wdteo/ISL-python.git
+[submodule "refer/ESL"]
+	path = refer/ESL
+	url = https://github.com/dgkim5360/the-elements-of-statistical-learning-notebooks.git
+[submodule "refer/ESL-Model"]
+	path = refer/ESL-Model
+	url = https://github.com/littlezz/ESL-Model.git
